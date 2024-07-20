@@ -1,0 +1,5 @@
+com\mycompany\uaspbosmstr2\NoteApp.class
+controller\Database.class
+view\NoteApp.class
+model\Note.class
+controller\NoteController.class
